@@ -41,7 +41,7 @@ h2 {
 }
 
 header {
-    padding: 30px;
+    padding: 20px;
     grid-column: 2/3;
     grid-row: 1/2;
 }
