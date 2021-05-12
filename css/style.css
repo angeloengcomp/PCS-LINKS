@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    width: 100vw;
+    width: 95vw;
     height: 100vh;
     background: url(../img/background.jpg);
     background-position: center;
@@ -21,6 +21,7 @@ body {
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-rows: 1fr 8fr 1fr;
     justify-items: center;
+    overflow: hidden;
 }
 
 .icone {
